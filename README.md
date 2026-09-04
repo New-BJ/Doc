@@ -1,3 +1,3 @@
 # Doc
 
-https://new-bj.github.io/Doc/
+https://New-BJ.github.io/Doc/
